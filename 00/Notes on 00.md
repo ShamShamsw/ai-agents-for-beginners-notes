@@ -1,4 +1,4 @@
-# Course Setup
+# Course Setup (This section is direct notes for what each lesson was and how to do it. My Notes and recomendations are at the bottom.
 
 ## Introduction
 This lesson explains how to prepare your environment and run code samples from the AI Agents for Beginners course.
