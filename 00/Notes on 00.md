@@ -178,3 +178,5 @@ This lesson explains how to prepare your environment and run code samples from t
 ---
 
 **Remember:** Everyone starts somewhere. The most important thing is to keep learning, experimenting, and building your skills!
+
+&copy; 2025 JACOB HASEMAN
